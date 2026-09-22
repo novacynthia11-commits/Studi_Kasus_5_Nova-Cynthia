@@ -41,7 +41,7 @@ Pengguna akan mendapatkan bukti pemesanan yang berisi nama Pengguna, jenis kamar
 <img width="400" alt="Screenshot 2026-09-22 202753" src="https://github.com/user-attachments/assets/4f7f2e9b-83aa-4530-8007-6e694cf5317e" />
 
 ### Menu 0
-Program akan dihentikan, ibaratnya program menganggap Pengguna tidak jadi memesan kamar hotel. <br>
+Program akan dihentikan, program menganggap Pengguna tidak jadi memesan kamar hotel. <br>
 
 <img width="400" alt="Screenshot 2026-09-22 202811" src="https://github.com/user-attachments/assets/6c3ed5ef-c60e-40ec-9c5c-492f7ca0aa1d" />
 
