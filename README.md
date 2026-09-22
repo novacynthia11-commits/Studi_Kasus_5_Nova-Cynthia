@@ -1,4 +1,4 @@
-# Sistem Pemesanan Hotel
+# Sistem Pemesanan Hotel (Function)
 **Nama :** Nova Cynthia <br>
 **NIM :** 2609116031 <br>
 **Program Studi :** Sistem Informasi <br>
@@ -21,27 +21,32 @@ Program ini digunakan untuk melakukan pemesanan kamar hotel dengan sistem yang p
 
 ## Output
 ### Output Awal
-Sebagai pembuka akan ditampilkan nama hotel dan Pengguna diwajibkan untuk mengisi bagian "nama".
-<img width="137" height="25" alt="Screenshot 2026-09-22 202608" src="https://github.com/user-attachments/assets/42482436-62cd-4b35-b2d3-2e6e8de3eb92" />
+Sebagai pembuka akan ditampilkan nama hotel dan Pengguna diwajibkan untuk mengisi bagian "nama". <br>
+
+<img width="400" alt="Screenshot 2026-09-22 202608" src="https://github.com/user-attachments/assets/42482436-62cd-4b35-b2d3-2e6e8de3eb92" />
 
 ### Output Daftar Menu
-Setelah itu Pengguna akan disapa dan langsung menampilkan daftar menu untuk pemesanan kamar hotel.
-<img width="155" height="82" alt="Screenshot 2026-09-22 202647" src="https://github.com/user-attachments/assets/0bacf4cb-b358-4d1d-aa22-f3c651ed93df" />
+Setelah itu Pengguna akan disapa dan langsung menampilkan daftar menu untuk pemesanan kamar hotel. <br>
+
+<img width="400" alt="Screenshot 2026-09-22 202647" src="https://github.com/user-attachments/assets/0bacf4cb-b358-4d1d-aa22-f3c651ed93df" />
 
 ### Menu 1
-Pengguna akan melakukan pemesanan kamar hotel dengan memilih jenis kamar dan memasukkan tanggal *check in* dan *check out*. Lalu program akan melakukan *looping* ke daftar menu.
-<img width="189" height="51" alt="Screenshot 2026-09-22 202733" src="https://github.com/user-attachments/assets/ce99b5c1-c0a1-4ac2-9ce4-4f70bd8bbe62" />
+Pengguna akan melakukan pemesanan kamar hotel dengan memilih jenis kamar dan memasukkan tanggal *check in* dan *check out*. Lalu program akan melakukan *looping* ke daftar menu. <br>
+
+<img width="400" alt="Screenshot 2026-09-22 202733" src="https://github.com/user-attachments/assets/ce99b5c1-c0a1-4ac2-9ce4-4f70bd8bbe62" />
 
 ### Menu 2
-Pengguna akan mendapatkan bukti pemesanan yang berisi nama Pengguna, jenis kamar yang dipilih, tanggal *check in* dan *check out*, lama menginap, dan total biaya kamar yang harus dibayar.
-<img width="217" height="91" alt="Screenshot 2026-09-22 202753" src="https://github.com/user-attachments/assets/4f7f2e9b-83aa-4530-8007-6e694cf5317e" />
+Pengguna akan mendapatkan bukti pemesanan yang berisi nama Pengguna, jenis kamar yang dipilih, tanggal *check in* dan *check out*, lama menginap, dan total biaya kamar yang harus dibayar. <br>
+
+<img width="400" alt="Screenshot 2026-09-22 202753" src="https://github.com/user-attachments/assets/4f7f2e9b-83aa-4530-8007-6e694cf5317e" />
 
 ### Menu 0
-Program akan dihentikan, ibaratnya program menganggap Pengguna tidak jadi memesan kamar hotel.
-<img width="190" height="23" alt="Screenshot 2026-09-22 202811" src="https://github.com/user-attachments/assets/6c3ed5ef-c60e-40ec-9c5c-492f7ca0aa1d" />
+Program akan dihentikan, ibaratnya program menganggap Pengguna tidak jadi memesan kamar hotel. <br>
+
+<img width="400" alt="Screenshot 2026-09-22 202811" src="https://github.com/user-attachments/assets/6c3ed5ef-c60e-40ec-9c5c-492f7ca0aa1d" />
 
 ## Tampilan keseluruhan
-<img width="197" height="276" alt="Screenshot 2026-09-22 203509" src="https://github.com/user-attachments/assets/a3768873-a644-419b-90a4-855df95eb52d" />
+<img width="300" alt="Screenshot 2026-09-22 203509" src="https://github.com/user-attachments/assets/a3768873-a644-419b-90a4-855df95eb52d" />
 
 
 
